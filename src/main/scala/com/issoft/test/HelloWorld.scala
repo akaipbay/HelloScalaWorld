@@ -6,6 +6,8 @@ object HelloWorld {
     println("Hello World!!!")
 
     println("New feuature was added!!!")
+
+    println("Another new feature!")
   }
 
 }
