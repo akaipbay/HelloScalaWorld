@@ -7,7 +7,7 @@ object HelloWorld {
 
     println("New feuature was added!!!")
 
-    println("Another new feature!")
+    println("Another new feature !!!")
   }
 
 }
